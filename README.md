@@ -1,1 +1,1 @@
-# webpack-template
+Webpack template for new repositories
